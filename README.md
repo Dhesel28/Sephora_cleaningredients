@@ -37,6 +37,4 @@ The analysis is based on a dataset containing detailed information about perfume
 ## Thank You!
 Thank you for exploring this project. I hope it helps you make more informed fragrance choices. Feel free to contribute, raise issues, or ask questions!
 
-## License
-This project is licensed under the MIT License.
 
